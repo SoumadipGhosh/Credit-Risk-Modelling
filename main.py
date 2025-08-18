@@ -503,7 +503,7 @@ with tab3:
         - Phone: +91-6204319128
         -----------------------
         - Name:Souvik Saha
-        - Email: sahasouvik6969@gmail.com
+        - Email: sahasouvik6869@gmail.com
         - Phone: +91-97322664369
         
         ### Support Resources
